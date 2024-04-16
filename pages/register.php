@@ -18,10 +18,10 @@
         <label for="email">Email:</label><br>
         <input type="email" id="email" name="email" required><br><br>
 
-        <label for="firstname">Email:</label><br>
+        <label for="firstname">First Name:</label><br>
         <input type="text" id="firstname" name="firstname" required><br><br>
 
-        <label for="lastname">Email:</label><br>
+        <label for="lastname">Last Name:</label><br>
         <input type="text" id="lastname" name="lastname" required><br><br>
 
         <label for="Role">Roles:</label><br>
